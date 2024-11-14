@@ -1,5 +1,6 @@
 import de from './de/main.json'
 import en from './en/main.json'
+import fi from './fi/main.json'
 import es from './es/main.json'
 import fr from './fr/main.json'
 import inTrans from './in/main.json'
@@ -18,6 +19,9 @@ export const resources = {
   },
   en: {
     translation: en,
+  },
+  fi: {
+    translation: fi,
   },
   es: {
     translation: es,

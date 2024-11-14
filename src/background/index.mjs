@@ -1,4 +1,4 @@
-import Browser from 'webextension-polyfill'
+rrrrrimport Browser from 'webextension-polyfill'
 import {
   deleteConversation,
   generateAnswersWithChatgptWebApi,
